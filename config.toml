@@ -1,0 +1,4 @@
+baseURL = 'http://isaacmao.com/'
+languageCode = 'en-us'
+title = 'Isaac+Mao'
+theme = "papermod"

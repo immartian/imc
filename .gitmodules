@@ -1,0 +1,12 @@
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/themes/ublogger"]
+	path = themes/themes/ublogger
+	url = https://github.com/uPagge/uBlogger
+[submodule "themes/ublogger"]
+	path = themes/ublogger
+	url = https://github.com/uPagge/uBlogger
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/schollz/onetwothree
