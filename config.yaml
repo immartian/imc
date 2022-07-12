@@ -1,0 +1,18 @@
+baseURL: https://isaacmao.com
+languageCode: en-us
+defaultContentLanguage: en
+title: Isaac+Mao
+theme: cht
+enableGitInfo: true
+
+menu:
+  nav:
+    - name: Sharism
+      url: https://freesouls.cc/essays/07-isaac-mao-sharism.html
+      weight: 1
+    - name: Archive
+      url: https://web.archive.org/web/20200201000000*/isaacmao.com
+      weight: 2
+    - name: RSS
+      url: /index.xml
+      weight: 3
