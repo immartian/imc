@@ -3,15 +3,16 @@ date: "2022-06-26T18:27:58+01:00"
 title: "Isaac's colony"
 ---
 
-Welcome: An accessibility-friendly Homo Sapien, mutated from the [Manchu](https://en.wikipedia.org/wiki/Manchu_people) genealogy. My life interests:
+Welcome: An accessibility-friendly [Homo Sapien](https://en.wikipedia.org/wiki/Isaac_Mao), mutated from the [Manchu](https://en.wikipedia.org/wiki/Manchu_people) genealogy. My life interests:
 
 {{< ticks >}}
-* “How long is forever?”, “Sometimes, just one second.”  ― _Lewis Carroll_ 
-* “Without music, life would be a mistake.”  ― _Friedrich Nietzsche_
-* “Quid vitae sectabor iter?” — _David Wootton_
-* “Information wants to be free” — _Stewart Brand_
-* “Sapiens can cooperate in extremely flexible ways with countless numbers of strangers.” ― _Yuval Noah Harari_
-* “Not a single one of the cells that compose you knows who you are, or cares.” ― _Daniel Dennett_
-* “Time is just a passage of entropy”  ― _Carlo Revoli_
-* “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” ― _Albert Einstein_
+* “Let us try to teach generosity and altruism, because we are born selfish”  ― _[Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)_ 
+* “How long is forever?”, “Sometimes, just one second.”  ― _[Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll)_ 
+* “Without music, life would be a mistake.”  ― _[Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)_
+* “Quid vitae sectabor iter?” — _[David Wootton](https://en.wikipedia.org/wiki/David_Wootton_(historian))_
+* “Information wants to be free” — _[Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)_
+* “Sapiens can cooperate in extremely flexible ways with countless numbers of strangers.” ― _[Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)_
+* “Not a single one of the cells that compose you knows who you are, or cares.” ― _[Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)_
+* “Time is just a passage of entropy”  ― _[Carlo Revoli](https://en.wikipedia.org/wiki/Carlo_Rovelli)_
+* “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” ― _[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)_
 {{< /ticks >}}
