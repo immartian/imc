@@ -10,8 +10,9 @@ Welcome: An accessibility-friendly [Homo Sapien](https://en.wikipedia.org/wiki/I
 * “How long is forever?”, “Sometimes, just one second.”  ― _[Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll)_ 
 * “Without music, life would be a mistake.”  ― _[Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)_
 * “Quid vitae sectabor iter?” — _[David Wootton](https://en.wikipedia.org/wiki/David_Wootton_(historian))_
-* “Information wants to be free” — _[Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)_
 * “Sapiens can cooperate in extremely flexible ways with countless numbers of strangers.” ― _[Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)_
+* “Information wants to be free” — _[Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)_
+* “Somewhere, something incredible is waiting to be known.” ― _[Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)_
 * “Not a single one of the cells that compose you knows who you are, or cares.” ― _[Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)_
 * “Time is just a passage of entropy”  ― _[Carlo Revoli](https://en.wikipedia.org/wiki/Carlo_Rovelli)_
 * “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” ― _[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)_
