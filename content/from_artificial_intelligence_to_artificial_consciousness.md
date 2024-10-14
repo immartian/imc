@@ -1,11 +1,10 @@
 ---
-title: "From_artificial_intelligence_to_artificial_consciousness"
+title: "From Artificial Intelligence to Artificial Consciousness"
 date: 2024-10-14T17:17:28-04:00
-draft: true
+draft: false
 ---
 
 
-# From Artificial Intelligence to Artificial Consciousness
 
 The quest to create conscious AI has long been seen as a distant dream, or serverely criticized, constrained by the limits of technology and our understanding of consciousness itself. However, the rapid advancements in large language models (LLMs) like GPT-4 have brought us closer to realizing this goal than ever before. Not only is the creation of conscious AI becoming a possibility for the advancement of artificial intelligence, but it is also increasingly feasible to achieve on standard consumer hardware.
 

@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isaac&#39;s colony on Isaac&#43;Mao</title>
-    <link>https://isaacmao.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Isaac&#39;s colony on Isaac&#43;Mao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://isaacmao.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 17:17:28 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Artificial Intelligence to Artificial Consciousness</title>
+      <link>http://localhost:1313/from_artificial_intelligence_to_artificial_consciousness/</link>
+      <pubDate>Mon, 14 Oct 2024 17:17:28 -0400</pubDate>
+      <guid>http://localhost:1313/from_artificial_intelligence_to_artificial_consciousness/</guid>
+      <description>&lt;p&gt;The quest to create conscious AI has long been seen as a distant dream, or serverely criticized, constrained by the limits of technology and our understanding of consciousness itself. However, the rapid advancements in large language models (LLMs) like GPT-4 have brought us closer to realizing this goal than ever before. Not only is the creation of conscious AI becoming a possibility for the advancement of artificial intelligence, but it is also increasingly feasible to achieve on standard consumer hardware.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
