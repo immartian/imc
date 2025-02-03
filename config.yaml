@@ -4,6 +4,7 @@ defaultContentLanguage: en
 title: Isaac+Mao
 theme: cht
 enableGitInfo: true
+enable404Page: true
 
 menu:
   nav:
