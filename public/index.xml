@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isaac&#39;s colony on Isaac&#43;Mao</title>
-    <link>http://localhost:1313/</link>
+    <link>https://isaacmao.com/</link>
     <description>Recent content in Isaac&#39;s colony on Isaac&#43;Mao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Nov 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isaacmao.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Harnessing AI for Cyber Resilience: Turning the Tables on Evolving Threats</title>
-      <link>http://localhost:1313/harnessing-ai-for-cyber-resilience-turning-the-tables-on-evolving-threats/</link>
+      <link>https://isaacmao.com/harnessing-ai-for-cyber-resilience-turning-the-tables-on-evolving-threats/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/harnessing-ai-for-cyber-resilience-turning-the-tables-on-evolving-threats/</guid>
+      <guid>https://isaacmao.com/harnessing-ai-for-cyber-resilience-turning-the-tables-on-evolving-threats/</guid>
       <description>&lt;p&gt;By Isaac Mao&lt;/p&gt;&#xA;&lt;p&gt;Nov. 2024&lt;/p&gt;&#xA;&lt;p&gt;In my 2021 article &lt;em&gt;“An Animal Farm of Disinformation”&lt;/em&gt; for PEN, I explored how adversaries exploit open technologies and free communication channels to weaponize disinformation, eroding public trust. Today, with the rise of AI-generated deepfakes and synthetic media, such campaigns have reached new heights of sophistication, manipulating populations at scale. Countering these threats demands intelligent, autoscaling systems that operate under the strategic guidance of human expertise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Artificial Intelligence to Artificial Consciousness</title>
-      <link>http://localhost:1313/from_artificial_intelligence_to_artificial_consciousness/</link>
+      <link>https://isaacmao.com/from_artificial_intelligence_to_artificial_consciousness/</link>
       <pubDate>Mon, 14 Oct 2024 17:17:28 -0400</pubDate>
-      <guid>http://localhost:1313/from_artificial_intelligence_to_artificial_consciousness/</guid>
+      <guid>https://isaacmao.com/from_artificial_intelligence_to_artificial_consciousness/</guid>
       <description>&lt;p&gt;Neuroscientist Christof Koch and philosopher David Chalmers made a bold bet 25 years ago(1998) on whether science would have an explanation for consciousness by now. Fast forward to today, and tests of the two leading theories of consciousness have revealed that both are still incomplete. The so-called &amp;ldquo;easy&amp;rdquo; problem of identifying neural correlates of consciousness proved far more complex than expected, with crucial aspects like self-awareness and subjective experience often overlooked in studies. As for the &amp;ldquo;hard&amp;rdquo; problem — how brain processes create subjective conscious experience — it remains unsolved and likely will for a long time (Costandi, 2023).&lt;/p&gt;</description>
     </item>
   </channel>
