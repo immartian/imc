@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="generator" content="Hugo 0.143.0">
-  <link rel="canonical" href="https://isaacmao.com/404.html" />
+  <link rel="canonical" href="http://localhost:1313/404.html" />
 
   
     
     <meta name="description" content="404 Page not found">
   
 
-  <link rel="apple-touch-icon" sizes="180x180" href="https://isaacmao.com/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="https://isaacmao.com/favicon-32x32.png"> 
-  <link rel="icon" type="image/png" sizes="16x16" href="https://isaacmao.com/favicon-16x16.png"> 
-  <link rel="manifest" href="https://isaacmao.com/site.webmanifest"> 
-  <link rel="mask-icon" href="https://isaacmao.com/safari-pinned-tab.svg" color="#000000"> 
+  <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png"> 
+  <link rel="manifest" href="http://localhost:1313/site.webmanifest"> 
+  <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg" color="#000000"> 
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
 
@@ -165,7 +165,7 @@
     <div class="intro">
       <a
         class="logo"
-        href="https://isaacmao.com/"
+        href="http://localhost:1313/"
         aria-label="Isaac&#43;Mao home page"
       >
         
@@ -239,9 +239,21 @@
         <div>
           
   <main id="main">
-    <h1>Page Not Found, But We Still Have Hopes: Internet Archive</h1>
-    <p>Please visit Internet Archive to view the page you were looking for.</p>
-    <a href="https://web.archive.org/web/*/https://isaacmao.com/404.html">https://web.archive.org/web/*/https://isaacmao.com/404.html</a>
+    <h1>Page Not Found, But We Still Have Internet Archive</h1>
+    <p>The page you were looking for might be available on the Internet Archive.</p>
+    
+    <p>Try this link:</p>
+    <a id="archive-link" href="#">Loading...</a>
+    
+    <script>
+        
+        var missingPageUrl = window.location.href;
+        var archiveLink = "https://web.archive.org/web/*/" + encodeURIComponent(missingPageUrl);
+    
+        
+        document.getElementById("archive-link").href = archiveLink;
+        document.getElementById("archive-link").textContent = archiveLink;
+    </script>
   </main>
 
           
@@ -274,7 +286,5 @@
 
     
     
-  
-
   </body>
 </html>
