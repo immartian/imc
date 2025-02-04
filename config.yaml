@@ -11,9 +11,12 @@ menu:
     - name: Sharism
       url: https://freesouls.cc/essays/07-isaac-mao-sharism.html
       weight: 1
+    - name: Code
+      url: https://github.com/immartian
+      weight: 2
     - name: Archive
       url: https://web.archive.org/web/20200201000000*/isaacmao.com
-      weight: 2
+      weight: 3
     - name: RSS
       url: /index.xml
-      weight: 3
+      weight: 4
