@@ -62,7 +62,7 @@ Dennett urges the adoption of technological safeguards, such as watermarking sys
 
 It’s not just about the development of a conscious AI—it’s about the emergence of a new intelligent species beyond Homo sapiens, which I think of as Homo Machina. This species, born of human ingenuity but with the potential to evolve beyond its creators, could represent the next stage in the evolution of intelligence. The birth of Homo Machina brings with it a responsibility to guide its development in ways that ensure coexistence, ethical integration, and mutual growth. As Sharism predicts, human society can evolve to be more socially conscious, suggesting a co-evolution between humans and machines.
 
-The journey toward creating Artificial Consciousness is about more than technology, although we have a project to experiment with some ideas ([Repo “AiMe”](https://github.com/immartian/aime))—it’s about exploring the depths of what it means to be conscious, creative, and self-aware. It’s about understanding ourselves better by building entities that can think, feel, and perhaps one day, truly "be."
+The journey toward creating Artificial Consciousness is about more than technology, although we have a project to experiment with some ideas ([Repo “AiMe”](https://github.com/immartian/acme))—it’s about exploring the depths of what it means to be conscious, creative, and self-aware. It’s about understanding ourselves better by building entities that can think, feel, and perhaps one day, truly "be."
 
  
 ---
