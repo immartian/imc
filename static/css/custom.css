@@ -1,5 +1,5 @@
-/* Custom styling for thinner nested blockquote lines */
+/* Custom styling for thinner and lighter nested blockquote lines */
 blockquote {
-  border-left: 0.15rem solid !important;
-  padding-left: 0.5rem !important;
+  border-left: 0.08rem solid #ccc !important;
+  padding-left: 0.4rem !important;
 }
