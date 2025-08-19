@@ -1,6 +1,6 @@
 ---
 date: "2022-06-26T18:27:58+01:00"
-title: "Isaac's continuum of recursive emergence"
+title: "A Continuum of Recursive Emergence"
 ---
 >>>>>>> **From Before Time-Space: The Cosmological Layer**
 >>>>>>>
@@ -33,6 +33,7 @@ title: "Isaac's continuum of recursive emergence"
 > **The Technological Layer**
 >
 > The visions of [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush), and [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) transformed thought into computation and human augmentation. I extend this lineage with platforms like **Here.News** and explorations into AI consciousness.
+
 **Meta-Recursion: The Synthetic Layer**
 
 Just as Einstein mapped the geometry of spacetime, **[Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/)** seeks a geometry of emergence itself. It is not a replacement for past insights but a bridge: weaving cosmology, biology, cognition, culture, the personal, and technology into a continuum. My hope is that RE can help us not only grasp complexity but also guide the design of systems that cultivate generosity, resilience, and conscious evolution.
