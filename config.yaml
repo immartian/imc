@@ -8,6 +8,8 @@ enable404Page: true
 
 params:
   katex: true
+  customCss:
+    - "css/custom.css"
 
 menu:
   nav:

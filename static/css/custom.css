@@ -1,0 +1,5 @@
+/* Custom styling for thinner nested blockquote lines */
+blockquote {
+  border-left: 0.15rem solid !important;
+  padding-left: 0.5rem !important;
+}
