@@ -2,8 +2,6 @@
 date: "2022-06-26T18:27:58+01:00"
 title: "Isaac's continuum of recursive emergence"
 ---
-**Isaac Mao: A Continuum of Recursive Emergence**
-
 Welcome: An accessibility-friendly [Homo Sapien](https://en.wikipedia.org/wiki/Isaac_Mao), my intellectual journey integrates ideas of generosity, curiosity, music as existential coherence, and the defense of [freedom](https://en.wikipedia.org/wiki/Cypherpunks_(book)) to streamline entropy in the modern world.
 
 I often return to [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)'s insight that "we are born selfish, yet must learn generosity"—a challenge that shapes my daily work toward building more generous systems. [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)'s principle that "[information wants to be free](https://en.wikipedia.org/wiki/Stewart_Brand)" drives my advocacy for open networks, while [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)'s belief that "somewhere, something incredible is waiting to be known" sustains my commitment to discovery. I find kinship with [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli)'s vision of time as entropy's passage and [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)'s humility before the infinite complexities of both universe and human nature. Music, following [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)'s "Without music, life would be a mistake", serves as my refuge and a way of bringing order to life's inherent chaos. 

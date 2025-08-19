@@ -6,6 +6,9 @@ theme: cht
 enableGitInfo: true
 enable404Page: true
 
+params:
+  katex: true
+
 menu:
   nav:
     - name: Sharism
