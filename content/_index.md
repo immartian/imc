@@ -1,14 +1,14 @@
 ---
 date: "2022-06-26T18:27:58+01:00"
-title: "A Continuum of Recursive Emergence"
+title: "A Timeless Journey of Recursive Emergence"
 ---
 >>>>>>>>> **From Before Time-Space: The Cosmological Layer**
 >>>>>>>>>
->>>>>>>>> In the lens of [**Recursive Emergence (RE)**](https://recursive-emergence.github.io/RE/), even universes may arise recursively. A black hole in one universe can seed the birth of another, where spacetime expands with new constants and laws. To its inhabitants, each feels infinite, though it is only a local infinity. Memory of ancestry resets at each birth, leaving only faint echoes in symmetries, entropy, and constants.
+>>>>>>>>> In the lens of [**Recursive Emergence (RE)**](https://recursive-emergence.github.io/RE/), even universes may arise recursively. As thinkers from [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose) to [Lee Smolin](https://en.wikipedia.org/wiki/Lee_Smolin) have suggested, a black hole in one universe can seed the birth of another, where spacetime expands with new constants and laws. To its inhabitants, each feels infinite, though it is only a local infinity. Memory of ancestry resets at each birth, leaving only faint echoes in symmetries, entropy, and constants.
 >>>>>>>>
 >>>>>>>> **The Chemical Layer**
 >>>>>>>>
->>>>>>>> From the harmony of elements imagined by [Empedocles](https://en.wikipedia.org/wiki/Empedocles) to the laws of chemistry, atoms bond, break, and recombine. This is the groundwork for life's recursive complexity.
+>>>>>>>> From the harmony of elements imagined by [Empedocles](https://en.wikipedia.org/wiki/Empedocles) to the laws of chemistry, atoms bond, break, and recombine — producing the dissipative structures described by [Ilya Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine), groundwork for life's recursive complexity.
 >>>>>>>
 >>>>>>> **The Biological Layer**
 >>>>>>>
@@ -24,11 +24,11 @@ title: "A Continuum of Recursive Emergence"
 >>>>
 >>>> **The Cultural Layer**
 >>>>
->>>> [Pierre Teilhard de Chardin](https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin)'s vision of the noosphere, [Lev Vygotsky](https://en.wikipedia.org/wiki/Lev_Vygotsky)'s scaffolding, and [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)'s pragmatism frame society as collective memory. From this, I developed **Sharism**: the philosophy of networked generosity accelerating cultural evolution.
+>>>> [Pierre Teilhard de Chardin](https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin)'s noosphere, [Lev Vygotsky](https://en.wikipedia.org/wiki/Lev_Vygotsky)'s social scaffolding, and [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)'s pragmatism frame society as collective memory. From this, I developed **Sharism**: the philosophy of networked generosity accelerating cultural evolution.
 >>>
 >>> **The Personal Layer**
 >>>
->>> Within culture, I locate myself: an accessibility-friendly [Homo Sapien](https://en.wikipedia.org/wiki/Isaac_Mao), integrating generosity, curiosity, music as coherence, and the defense of [freedom](https://en.wikipedia.org/wiki/Cypherpunks_(book)) as ways of shaping entropy in the modern world. Guided by [Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins), [Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), [Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli), [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), and [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), I carry forward their spirit of discovery into my own recursive practice.
+>>> Within culture, I locate myself: an accessibility-friendly [Homo Sapien](https://en.wikipedia.org/wiki/Isaac_Mao), integrating generosity, curiosity, music as coherence, and a defense of [freedom](https://en.wikipedia.org/wiki/Cypherpunks_(book)) as ways of shaping entropy in the modern world. Guided by [Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins), [Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), [Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli), [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), and [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), I carry forward their spirit of discovery into my own recursive practice.
 >>
 >> **The Technological Layer**
 >>
@@ -36,4 +36,4 @@ title: "A Continuum of Recursive Emergence"
 >
 > **Meta-Recursion: The Synthetic Layer**
 >
-> Just as Einstein mapped the geometry of spacetime, **[Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/)** seeks a geometry of emergence itself. It is not a replacement for past insights but a bridge: weaving cosmology, biology, cognition, culture, the personal, and technology into a continuum. My hope is that RE can help us not only grasp complexity but also guide the design of systems that cultivate generosity, resilience, and conscious evolution.
+> Just as Einstein mapped the geometry of spacetime, **[Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/)** seeks a geometry of emergence itself. It is not a replacement for past insights but a bridge: weaving cosmology, biology, cognition, culture, the personal, and technology into a continuum. My hope is that RE can help us not only grasp complexity but also guide the design of systems that cultivate generosity, resilience, and conscious evolution — and, in turn, loop back to shape the conditions of future cosmologies.
