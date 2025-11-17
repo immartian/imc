@@ -36,6 +36,8 @@ China’s model, which Jennifer Lind labels “smart authoritarianism” and whi
 
 This is why China can produce an EV champion like BYD, build rockets that reach Mars, and pressure American dominance in artificial intelligence, yet still struggle to generate foundational breakthroughs that require messy, unpredictable intellectual environments. It is not a contradiction. It is the natural outcome of a mid-stage recursion cycle: strong at scaling and applied innovation, weaker at generating unbounded new paradigms.
 
+DeepSeek, the Chinese open-source large language model that rode on top of global repositories released by Meta and independent researchers, is a textbook illustration. Engineers in Beijing treated Western open-source AI as a “sidekick”: fork the code, fine-tune with domestic data, and redeploy it into commercial products before regulators elsewhere even finished debating usage. Borrowed openness accelerates each turn of the loop—until the derived capability challenges information control, at which point the sidekick is muzzled or redeployed into state objectives. The model’s success is thus simultaneously proof of China’s adaptive pragmatism and evidence of how dependent it remains on external reservoirs of diversity.
+
 Every historical “smart autocracy” has gone through this same arc. The Soviet Union had extraordinary scientists but suffocated its own feedback loops. Singapore mastered efficiency but produced few globally transformative inventions. South Korea and Taiwan achieved their highest innovation velocity only after liberalization widened their recursive cycles.
 
 ### How Democracies Gain the Edge—and Lose It
