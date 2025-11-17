@@ -8,6 +8,8 @@ tags: ["innovation", "governance", "recursion", "china", "strategy"]
 
 China’s rapid ascent in advanced technology has unsettled one of liberal democracy’s oldest assumptions: that freedom fuels innovation while control smothers it. As Beijing continues to produce world-class companies, global infrastructure, and competitive scientific output, many governments, especially those with authoritarian instincts, are beginning to ask whether political openness is really necessary to innovate.
 
+# Why Authoritarian Innovation Has Limits
+
 ## Recursive Emergence as the Innovation Lens
 
 The more important question, however, is not whether autocracies can innovate. They can, and they already have. The deeper issue is whether they can sustain innovation across generations. That requires a different framework for understanding how societies generate new ideas: a framework best captured through the lens of [Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/).
