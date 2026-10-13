@@ -3,3 +3,34 @@ blockquote {
   border-left: 0.08rem solid #ccc !important;
   padding-left: 0.4rem !important;
 }
+/* Small clickable picture floated beside story text (e.g. Zero Is One) */
+figure.story-picture {
+  float: right;
+  width: 13rem;
+  margin: 0 0 1rem 1.5rem;
+}
+figure.story-picture img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+}
+figure.story-picture figcaption::before {
+  content: none;
+}
+figure.story-picture ~ h2 {
+  clear: both;
+}
+@media (max-width: 40rem) {
+  figure.story-picture {
+    float: none;
+    width: 60%;
+    margin: 1rem auto;
+  }
+}
+
+/* Subtitle / dedication under an article title */
+.subtitle {
+  margin-top: 0.25rem;
+  font-size: 1.15rem;
+  font-style: italic;
+}

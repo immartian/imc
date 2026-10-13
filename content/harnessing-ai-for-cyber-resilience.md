@@ -4,6 +4,7 @@ date: 2024-11-01T00:00:00-04:00
 draft: false
 description: "From the i-SOON leak to deepfake disinformation: a four-tier, AI-driven framework for turning the scale of cyber threats into a defensive advantage."
 tags: ["ai", "cybersecurity", "disinformation", "china", "resilience"]
+images: ["/images/A%20Tiered%20Intelligent%20Framework%20for%20Cyber%20Resilience.png"]
 aliases: ["/harnessing-ai-for-cyber-resilience-turning-the-tables-on-evolving-threats/"]
 ---
 
