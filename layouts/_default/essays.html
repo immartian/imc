@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ with site.Home.OutputFormats.Get "rss" }}
+      <p class="date"><a href="{{ .RelPermalink }}">Subscribe via RSS</a></p>
+    {{ end }}
+    <ul class="patterns-list">
+      {{ range site.RegularPages.ByDate.Reverse }}
+        <li>
+          <h2>
+            <a href="{{ .RelPermalink }}">
+              <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+                <use href="#bookmark"></use>
+              </svg>
+              {{ .Title }}
+            </a>
+          </h2>
+          <div class="date">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (site.Params.dateFormat | default "Jan 2, 2006") }}</time>
+          </div>
+          {{ with .Description | default .Summary | plainify }}
+            <p>{{ . | truncate 220 }}</p>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}

@@ -16,6 +16,10 @@
     <meta name="description" content="{{ .Description | default $summary }}">
   {{ end }}
 
+  {{ with site.Home.OutputFormats.Get "rss" }}
+    <link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">
+  {{ end }}
+
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
 
