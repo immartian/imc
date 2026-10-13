@@ -12,7 +12,7 @@ China’s rapid ascent in advanced technology has unsettled one of liberal democ
 
 The more important question, however, is not whether autocracies can innovate. They can, and they already have. The deeper issue is whether they can sustain innovation across generations. That requires a different framework for understanding how societies generate new ideas: a framework best captured through the lens of [Recursive Emergence (RE)](https://recursive-emergence.github.io/RE/).
 
-[RE’s Recursive Law of Emergence](https://github.com/Recursive-Emergence/RE/blob/main/thesis.md#the-recursive-law-of-emergence-a-foundational-framework-for-life-consciousness-and-beyond) shows that innovation is simply emergence at the societal layer. A society must recycle the same loop—collective memory (Ψ) generating new coherent patterns (Φ), which reshape the institutional lattice (Ω), which then feeds back into memory with less entropy than before. If the loop stays wide, dynamic, and self-correcting, innovation compounds. If the loop narrows or becomes politically dangerous to maintain, innovation withers.
+[RE’s Recursive Law of Emergence](https://github.com/Recursive-Emergence/RE/blob/main/part0_ch0_the_single_law.md) shows that innovation is simply emergence at the societal layer. A society must recycle the same loop—collective memory (Ψ) generating new coherent patterns (Φ), which reshape the institutional lattice (Ω), which then feeds back into memory with less entropy than before. If the loop stays wide, dynamic, and self-correcting, innovation compounds. If the loop narrows or becomes politically dangerous to maintain, innovation withers.
 
 ### Innovation Requires the Full RE Loop
 

@@ -1,6 +1,7 @@
 ---
 date: "2022-06-26T18:27:58+01:00"
 title: "A Timeless Journey of Me or Nothingness: A Continuum of Recursive Emergence"
+description: "Isaac Mao — essays on Recursive Emergence, Sharism, AI consciousness, and how open societies evolve."
 ---
 >>>>>>>>> **From Before Time-Space: The Cosmological Layer**
 >>>>>>>>>
