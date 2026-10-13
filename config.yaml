@@ -5,8 +5,10 @@ title: Isaac+Mao
 theme: cht
 enableGitInfo: true
 enable404Page: true
+enableRobotsTXT: true
 
 params:
+  description: "Isaac Mao — essays on Recursive Emergence, Sharism, AI consciousness, and how open societies evolve."
   katex: true
   customCss:
     - "css/custom.css"
