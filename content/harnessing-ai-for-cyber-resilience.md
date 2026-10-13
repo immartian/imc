@@ -3,12 +3,9 @@ title: "Harnessing AI for Cyber Resilience: Turning the Tables on Evolving Threa
 date: 2024-11-01T00:00:00-04:00
 draft: false
 description: "From the i-SOON leak to deepfake disinformation: a four-tier, AI-driven framework for turning the scale of cyber threats into a defensive advantage."
+tags: ["ai", "cybersecurity", "disinformation", "china", "resilience"]
 aliases: ["/harnessing-ai-for-cyber-resilience-turning-the-tables-on-evolving-threats/"]
 ---
-
-By Isaac Mao
-
-Nov. 2024
 
 In my 2021 article [*“An Animal Farm of Disinformation”*](https://www.penopp.org/articles/animal-farm-disinformation?language_content_entity=en) for PEN, I explored how adversaries exploit open technologies and free communication channels to weaponize disinformation, eroding public trust. Today, with the rise of AI-generated deepfakes and synthetic media, such campaigns have reached new heights of sophistication, manipulating populations at scale. Countering these threats demands intelligent, autoscaling systems that operate under the strategic guidance of human expertise.
 

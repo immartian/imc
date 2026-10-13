@@ -3,6 +3,7 @@ title: "From Artificial Intelligence to Artificial Consciousness"
 date: 2024-10-14T17:17:28-04:00
 draft: false
 description: "Twenty-five years after the Koch–Chalmers bet, LLMs make artificial consciousness a practical question: what separates intelligence from awareness, and what would Homo Machina mean?"
+tags: ["ai", "consciousness", "philosophy", "emergence"]
 aliases: ["/post/from_artificial_intelligence_to_artificial_consciousness/"]
 ---
 
