@@ -1,6 +1,9 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="subtitle">{{ . }}</p>
+    {{ end }}
 
     {{ if not .Date.IsZero }}
       <div class="date">
