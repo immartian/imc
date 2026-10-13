@@ -6,8 +6,6 @@ tags: ["postliberalism", "recursive emergence", "civic order", "Patrick Deneen"]
 summary: "A review of Patrick Deneen’s Regime Change and a vision for evolving civic order through Recursive Emergence."
 draft: false
 ---
-# Beyond Regime Change: From Postliberalism to Recursive Emergence
-
 **A review of Patrick Deneen’s *Regime Change* and a vision for an evolving civic order**
 
 In *Regime Change: Toward a Postliberal Future*, Patrick Deneen delivers a searing critique of the liberal order and a compelling case for its moral and political replacement. He argues that liberalism—once promising liberty, pluralism, and human dignity—has in practice hollowed out tradition, community, and the moral imagination. What remains is a technocratic elite ruling over a fragmented populace, disembedded from virtue, history, and shared meaning.

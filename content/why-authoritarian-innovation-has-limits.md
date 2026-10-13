@@ -6,8 +6,6 @@ description: "Examining why authoritarian regimes can spark innovation spurts ye
 tags: ["innovation", "governance", "recursion", "china", "strategy"]
 ---
 
-# Why Authoritarian Innovation Has Limits
-
 China’s rapid ascent in advanced technology has unsettled one of liberal democracy’s oldest assumptions: that freedom fuels innovation while control smothers it. As Beijing continues to produce world-class companies, global infrastructure, and competitive scientific output, many governments, especially those with authoritarian instincts, are beginning to ask whether political openness is really necessary to innovate.
 
 ## Recursive Emergence as the Innovation Lens

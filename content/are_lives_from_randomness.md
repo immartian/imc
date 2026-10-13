@@ -7,8 +7,6 @@ tags: ["philosophy", "complexity", "recursion", "emergence", "evolution"]
 math: true
 ---
 
-# Not Luck but Law: How Recursion Explains Our Existence
-
 Sean B. Carroll’s view frames human existence as the improbable outcome of “freak accidents” — asteroid impacts, tectonic collisions, ice ages — a cosmic lottery where chance alone explains why we are here. Through the lens of Recursive Emergence (RE), this narrative misses the deeper law-like structure underlying these events. What appears accidental or miraculous is better understood as the recursive reduction of entropy through reusable patterns across layers of physics, geology, biology, and cognition.
 
 **RE counter-thesis:** What looks like accident from a linear narrative is, in a recursive system, a lawful *phase transition*. Large shocks act as structure-forcing operators on a constrained lattice. Given enough time and interaction, they reliably ratchet complexity upward by (i) clearing saturated niches, (ii) amplifying feedbacks, and (iii) locking in new, reusable patterns. In other words: **contingency at the event level; inevitability at the layer level.**
@@ -33,7 +31,7 @@ Under RE, humans aren’t lottery winners of two cosmic coin flips. We’re prod
 
 ---
 
-# Mathematical RE framing (bite-sized)
+## Mathematical RE framing (bite-sized)
 
 **Core objects**
 
