@@ -1,6 +1,30 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
+
+    {{ if not .Date.IsZero }}
+      <div class="date">
+        {{ $dateFormat := site.Params.dateFormat | default "Jan 2, 2006" }}
+        <strong>{{ T "publish_date" }} </strong><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format $dateFormat }}</time>
+      </div>
+    {{ end }}
+
+    {{ with .Params.tags }}
+      <div class="tags">
+        <strong>{{ T "tags" }} </strong>
+        <ul aria-label="{{ T "aria_label_tags" }}">
+          {{ range . }}
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              <a href="{{ print ("tags/" | relLangURL) (. | urlize) "/" }}">{{ . }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+
     {{ .Content }}
   </main>
 {{ end }}
