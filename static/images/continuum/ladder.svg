@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 370" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="lt ld">
+<title id="lt">One step of the ladder</title>
+<desc id="ld">Three circles of growing size, T0, T1 and T2. Inside each, a dashed loop: the system describes itself. In each circle's edge, a gap marked G: a true sentence it can state but cannot prove. A solid arrow leaves through the gap to the next, larger circle: T1 is T0 plus G0, T2 is T1 plus G1, and the ladder continues.</desc>
+<rect width="1000" height="370" fill="#fff"/>
+<defs><marker id="larrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 1 L9 5 L0 9 z" fill="#111"/></marker><marker id="lchevron" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#111" stroke-width="1.7" stroke-linejoin="round"/></marker></defs>
+<path d="M212.7 177.9 A64 64 0 1 1 212.7 152.1" fill="none" stroke="#111" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M175.5 143.6 A33.3 33.3 0 1 1 128.6 139.5" fill="none" stroke="#111" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#lchevron)"/>
+<text x="150" y="176" font-size="32" text-anchor="middle" fill="#111">T<tspan dy="6" font-size="22">0</tspan></text>
+<circle cx="214" cy="165" r="5" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="220" y="151" font-size="25" fill="#111">G<tspan dy="6" font-size="17">0</tspan></text>
+<path d="M222 165 L356 165" stroke="#111" stroke-width="3" marker-end="url(#larrow)"/>
+<path d="M533 177.9 A84 84 0 1 1 533 152.1" fill="none" stroke="#111" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M483.5 136.9 A43.7 43.7 0 1 1 421.9 131.5" fill="none" stroke="#111" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#lchevron)"/>
+<text x="450" y="176" font-size="32" text-anchor="middle" fill="#111">T<tspan dy="6" font-size="22">1</tspan></text>
+<circle cx="534" cy="165" r="5" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="540" y="151" font-size="25" fill="#111">G<tspan dy="6" font-size="17">1</tspan></text>
+<path d="M542 165 L676 165" stroke="#111" stroke-width="3" marker-end="url(#larrow)"/>
+<path d="M893.2 178 A104 104 0 1 1 893.2 152" fill="none" stroke="#111" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M831.4 130.2 A54.1 54.1 0 1 1 755.2 123.6" fill="none" stroke="#111" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#lchevron)"/>
+<text x="790" y="176" font-size="32" text-anchor="middle" fill="#111">T<tspan dy="6" font-size="22">2</tspan></text>
+<circle cx="894" cy="165" r="5" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="900" y="151" font-size="25" fill="#111">G<tspan dy="6" font-size="17">2</tspan></text>
+<path d="M904 165 L984 165" stroke="#111" stroke-width="3" stroke-dasharray="1 8" stroke-linecap="round"/>
+<text x="150" y="300" font-size="23" text-anchor="middle" fill="#111">reflect: the system</text>
+<text x="150" y="329" font-size="23" text-anchor="middle" fill="#111">describes itself</text>
+<text x="450" y="300" font-size="23" text-anchor="middle" fill="#111">T<tspan dy="6" font-size="16">1</tspan><tspan dy="-6"> = </tspan>T<tspan dy="6" font-size="16">0</tspan><tspan dy="-6"> + </tspan>G<tspan dy="6" font-size="16">0</tspan></text>
+<text x="450" y="329" font-size="23" text-anchor="middle" fill="#111">extend: a larger system</text>
+<text x="790" y="300" font-size="23" text-anchor="middle" fill="#111">T<tspan dy="6" font-size="16">2</tspan><tspan dy="-6"> = </tspan>T<tspan dy="6" font-size="16">1</tspan><tspan dy="-6"> + </tspan>G<tspan dy="6" font-size="16">1</tspan></text>
+<text x="790" y="329" font-size="23" text-anchor="middle" fill="#111">with a residue of its own</text>
+<text x="330" y="40" font-size="22" font-style="italic" text-anchor="middle" fill="#111">G<tspan dy="6" font-size="15">0</tspan><tspan dy="-6">: true, and statable in </tspan>T<tspan dy="6" font-size="15">0</tspan><tspan dy="-6">, but not provable there</tspan></text>
+<path d="M250 52 Q226 76 220 149" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#larrow)"/>
+</svg>

@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <main id="main" class="continuum-page">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="subtitle">{{ . }}</p>
+    {{ end }}
+    {{ .Content }}
+  </main>
+{{ end }}

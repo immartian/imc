@@ -56,3 +56,140 @@ figure.continuum img {
 figure.continuum figcaption::before {
   content: none;
 }
+
+/* The continuum explainer (/continuum/) */
+figure.continuum-map {
+  width: max(100%, min(calc(100vw - 19rem), 64rem));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+@media screen and (max-width: 45em) {
+  figure.continuum-map {
+    width: 100%;
+    margin-left: 0;
+    transform: none;
+  }
+}
+.continuum-map-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.continuum-map-svg .cm-ring,
+.continuum-map-svg .cm-thread,
+.continuum-map-svg .cm-reflection,
+.continuum-map-svg .cm-edge {
+  transition: stroke-width 0.15s;
+}
+.continuum-map-svg a:hover .cm-ring,
+.continuum-map-svg a:focus-visible .cm-ring {
+  stroke-width: 5;
+}
+.continuum-map-svg a:hover .cm-thread,
+.continuum-map-svg a:focus-visible .cm-thread {
+  stroke-width: 5;
+}
+.continuum-map-svg a:hover .cm-reflection,
+.continuum-map-svg a:hover .cm-edge,
+.continuum-map-svg a:focus-visible .cm-reflection,
+.continuum-map-svg a:focus-visible .cm-edge {
+  stroke-width: 3.4;
+}
+.continuum-map-svg a:hover .cm-label,
+.continuum-map-svg a:focus-visible .cm-label {
+  text-decoration: underline;
+}
+.continuum-map-svg a:focus {
+  outline: none;
+}
+.continuum-map-svg a:focus-visible .cm-hit {
+  stroke: rgba(0, 0, 0, 0.07);
+}
+figure.continuum-map figcaption::before,
+figure.ladder figcaption::before {
+  content: none;
+}
+figure.ladder img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+}
+.layers {
+  margin-top: 1.5rem;
+}
+.layer {
+  padding: 1.5rem 0 0.5rem;
+  border-top: 1px solid #bbb;
+  scroll-margin-top: 1rem;
+}
+.layer + .layer {
+  margin-top: 1rem;
+}
+.layer:target {
+  /* opaque: the theme makes every element inherit its parent's background */
+  background-color: #f3f2ee;
+  box-shadow: 0 0 0 0.75rem #f3f2ee;
+}
+.layer::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.layer-mini {
+  position: relative;   /* paint above the heading, which the theme positions */
+  z-index: 1;
+  float: right;
+  width: 9rem;
+  height: auto;
+  max-height: none;
+  margin: 0 0 0.75rem 1.25rem;
+}
+.layer h3 {
+  margin-top: 0;
+}
+.layer .layer-re {
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.layer dl {
+  margin-top: 0.5rem;
+}
+.layer dt {
+  margin-top: 0.9rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.layer dd {
+  margin: 0.15rem 0 0;
+  padding-left: 0;
+}
+.layer dd p {
+  margin: 0;
+}
+.layer .layer-back {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+}
+a.re-ref {
+  font-size: 0.72em;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+  vertical-align: 0.1em;
+}
+@media screen and (max-width: 45em) {
+  .layer-mini {
+    width: 6.5rem;
+    margin-left: 0.75rem;
+  }
+}
+@media screen and (max-width: 45em) {
+  figure.ladder {
+    overflow-x: auto;
+  }
+  figure.ladder img {
+    min-width: 40rem;
+  }
+}

@@ -10,7 +10,7 @@ I'm Isaac Mao. I follow one pattern wherever it leads, from the first stars to t
 
 > Structures that recursively reduce local entropy while generating reusable memory persist, duplicate, and seed the conditions for the next layer of complexity to emerge.
 
-{{< figure src="/images/re-continuum.svg" link="/images/re-continuum.svg" target="_blank" class="continuum" width="1000" height="1000" alt="Nine concentric rings, one per layer from cosmos to the synthetic layer, each labelled with its thinkers. Every ring has a gap, the residue it cannot close from inside. A thread of recursion starts at a central dot and passes out through each gap, past a dashed edge into an open haze: whatever comes next." caption="Each ring is a layer. Each layer leaves a gap it cannot close from inside, and recursion passes through that gap into the next. Tap to enlarge." >}}
+{{< figure src="/images/re-continuum.svg" link="/continuum/" class="continuum" width="1000" height="1000" alt="Nine concentric rings, one per layer from cosmos to the synthetic layer, each labelled with its thinkers. Every ring has a door to the next: found by search in the three inner rings, a residue from life outward. A solid thread of recursion runs from a central dot out through every door into an open haze, whatever comes next; a dashed thread of reflection runs back inward from culture, Gödel to Einstein, 1949, and stops just short of the centre." caption="Each ring is a layer, each gap a door. From life outward the door is a residue, something a layer can state about itself but cannot settle from inside. Recursion extends out through the doors and reflects back in, never quite closing the loop. [How to read the map](/continuum/)." >}}
 
 ## The same shapes, over and over
 
@@ -35,6 +35,8 @@ RE agrees, with one addition. The self is a compression, the pattern a system ke
 Then the hardest gift. Gödel proved that any consistent formal system rich enough for arithmetic contains true statements it [cannot prove from within](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems). Every such system has an edge.
 
 Most people read that as a wall. I read it as a door. Add the unprovable statement and you get a larger system, with a new edge of its own; [Alan Turing](https://en.wikipedia.org/wiki/Systems_of_Logic_Based_on_Ordinals) and [Solomon Feferman](https://en.wikipedia.org/wiki/Solomon_Feferman) showed you can keep walking through these doors without end. RE calls what is left over the *residue*, and treats it as the address of the next layer. Completeness would be the end of emergence, not its perfection.
+
+The thread also runs back. Every layer able to describe itself reflects on the layers it came from, and it is that self-description that shows it its residue. [The continuum](/continuum/) maps both motions, layer by layer.
 
 So there are two kinds of not-knowing. The *unknown* is what we have not reached yet. The *unknowable from inside* is what no layer can settle about itself, and it is not a failure: it is where the next layer begins. Rovelli arrives at a similar humility from physics: "Knowing the physical laws of the world does not amount to knowing the world."
 

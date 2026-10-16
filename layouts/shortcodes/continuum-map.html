@@ -1,0 +1,5 @@
+{{- /* The continuum map, inlined so its rings can link to the layer cards. Caption is the inner Markdown. */ -}}
+<figure class="continuum-map" id="map">
+  {{ readFile "static/images/continuum/map.svg" | safeHTML }}
+  {{ with .Inner }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>
