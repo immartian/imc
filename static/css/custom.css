@@ -34,3 +34,13 @@ figure.story-picture ~ h2 {
   font-size: 1.15rem;
   font-style: italic;
 }
+
+/* Home page continuum diagram */
+figure.continuum img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+}
+figure.continuum figcaption::before {
+  content: none;
+}

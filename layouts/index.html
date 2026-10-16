@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="subtitle">{{ . }}</p>
+    {{ end }}
+
+    {{ .Content }}
+
+    <h2>Recent essays</h2>
+    <ul class="patterns-list">
+      {{ range first 5 site.RegularPages.ByDate.Reverse }}
+        <li>
+          <h3>
+            <a href="{{ .RelPermalink }}">
+              <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+                <use href="#bookmark"></use>
+              </svg>
+              {{ .Title }}
+            </a>
+          </h3>
+          <div class="date">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (site.Params.dateFormat | default "Jan 2, 2006") }}</time>
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+    <p><a href="{{ "essays/" | relURL }}">All essays</a> · <a href="{{ "index.xml" | relURL }}">RSS</a></p>
+  </main>
+{{ end }}
