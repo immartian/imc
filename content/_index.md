@@ -10,7 +10,7 @@ I'm Isaac Mao. I follow one pattern wherever it leads, from the first stars to t
 
 > Structures that recursively reduce local entropy while generating reusable memory persist, duplicate, and seed the conditions for the next layer of complexity to emerge.
 
-{{< figure src="/images/re-continuum.svg" link="/images/re-continuum.svg" target="_blank" class="continuum" width="900" height="900" alt="Nine concentric rings, one per layer from cosmos to the synthetic layer, each labelled with its thinkers. Every ring has a gap, the residue it cannot close from inside. A thread of recursion starts at a central dot and passes out through each gap, past a dashed edge into an open haze: whatever comes next." caption="Each ring is a layer. Each layer leaves a gap it cannot close from inside, and recursion passes through that gap into the next. Tap to enlarge." >}}
+{{< figure src="/images/re-continuum.svg" link="/images/re-continuum.svg" target="_blank" class="continuum" width="1000" height="1000" alt="Nine concentric rings, one per layer from cosmos to the synthetic layer, each labelled with its thinkers. Every ring has a gap, the residue it cannot close from inside. A thread of recursion starts at a central dot and passes out through each gap, past a dashed edge into an open haze: whatever comes next." caption="Each ring is a layer. Each layer leaves a gap it cannot close from inside, and recursion passes through that gap into the next. Tap to enlarge." >}}
 
 ## The same shapes, over and over
 
