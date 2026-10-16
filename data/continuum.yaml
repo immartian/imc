@@ -1,0 +1,256 @@
+# The continuum: RE's layers as drawn on isaacmao.com, inner to outer.
+# Read by tools/make_continuum.py (the rings and the mini maps) and by the
+# continuum-layers shortcode (the cards on /continuum/).
+#
+#   ring:     label drawn on the ring
+#   who:      a few thinkers drawn on the ring (the full lineage is on the card)
+#   note:     optional italic note after the thinkers
+#   read_by:  id of the layer whose reflection reaches this one (itself = a loop)
+#   title, re, door_label, remembers, door, looking_back, lineage: the card.
+#   Card text is Markdown; {ch4}, {M}, {P} ... become links to the RE thesis.
+
+re_base: https://github.com/Recursive-Emergence/RE/blob/main/
+chapters:
+  ch0: {file: part0_ch0_the_single_law.md, label: "RE 0", title: "chapter 0, The Single Law"}
+  ch1: {file: part0_ch1_definitions.md, label: "RE 1", title: "chapter 1, Definitions"}
+  ch2: {file: part0_ch2_mathematical_foundations.md, label: "RE 2", title: "chapter 2, Mathematical Foundations"}
+  ch3: {file: part0_ch3_philosophical_stance.md, label: "RE 3", title: "chapter 3, Philosophical Stance"}
+  ch4: {file: part1_ch4_cosmological_layer.md, label: "RE 4", title: "chapter 4, The Cosmological Layer"}
+  ch5: {file: part1_ch5_quantum_layer.md, label: "RE 5", title: "chapter 5, The Quantum Layer"}
+  ch6: {file: part1_ch6_atomic_stellar_layer.md, label: "RE 6", title: "chapter 6, The Atomic and Stellar Layer"}
+  ch7: {file: part2_ch7_chemical_layer.md, label: "RE 7", title: "chapter 7, The Chemical Layer"}
+  ch8: {file: part2_ch8_biological_layer.md, label: "RE 8", title: "chapter 8, The Biological Layer"}
+  ch9: {file: part2_ch9_neural_layer.md, label: "RE 9", title: "chapter 9, The Neural Layer"}
+  ch10: {file: part2_ch10_cognitive_layer.md, label: "RE 10", title: "chapter 10, The Cognitive Layer"}
+  ch11: {file: part3_ch11_cultural_layer.md, label: "RE 11", title: "chapter 11, The Cultural Layer"}
+  ch12: {file: part3_ch12_economic_layer.md, label: "RE 12", title: "chapter 12, The Economic Layer"}
+  ch13: {file: part3_ch13_political_layer.md, label: "RE 13", title: "chapter 13, The Political Layer"}
+  ch14: {file: part3_ch14_technological_layer.md, label: "RE 14", title: "chapter 14, The Technological Layer"}
+  ch15: {file: part4_ch15_synthetic_layer.md, label: "RE 15", title: "chapter 15, The Synthetic Layer"}
+  ch16: {file: part4_ch16_direction.md, label: "RE 16", title: "chapter 16, Direction"}
+  ch17: {file: part4_ch17_cosmological_closure.md, label: "RE 17", title: "chapter 17, Cosmological Closure"}
+  ch18: {file: part4_ch18_god_and_meaning.md, label: "RE 18", title: "chapter 18, God and Meaning"}
+  M: {file: appendix_M_formal_system.md, label: "RE M", title: "appendix M, The Formal System"}
+  P: {file: appendix_P_parallel_theories.md, label: "RE P", title: "appendix P, Parallel Theories"}
+
+layers:
+  - id: cosmos
+    ring: COSMOS
+    who: Einstein · Smolin
+    read_by: culture
+    title: Cosmos
+    re: RE layer 0, cosmological
+    door_label: Door, found by search
+    remembers: >-
+      What is conserved: charge, mass, spin. “These are the universe’s first memories,” and mass is
+      frozen recursion {ch4}. “The universe did not merely cool. It *remembered*.”
+    door: >-
+      Nothing here can describe itself yet, so there is no residue. Structures lock in where they fit:
+      nuclei, orbits, galaxies, the geometry of spacetime. Then the question changes: “The cosmological
+      layer tells us *what* the universe is made of. The quantum layer tells us *how* it makes
+      decisions” {ch4}.
+    looking_back: >-
+      In 1949 Gödel, armed with mathematics, culture’s most compressed memory, solved Einstein’s
+      equations and found a universe in which time curves back on itself. That is the dashed thread on
+      the map. “When a physicist models the universe … The universe is modeling itself” {ch17}.
+    lineage: >-
+      [Einstein](https://en.wikipedia.org/wiki/General_relativity),
+      [Wheeler](https://en.wikipedia.org/wiki/Quantum_foam)’s spacetime foam,
+      [Penrose](https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology) and
+      [Smolin](https://en.wikipedia.org/wiki/Cosmological_natural_selection)’s universes born from
+      universes.
+
+  - id: matter
+    ring: MATTER
+    who: Heisenberg · Rovelli
+    read_by: mind
+    title: Matter
+    re: RE layers 1 and 2, quantum and atomic–stellar
+    door_label: Door, found by search
+    remembers: >-
+      Entanglement, “shared recursive memory that is not spatially bound” {ch5}. Then the elements,
+      each a stable stopping point: the periodic table is “a map of recursion stopping points” {ch6}.
+      Stars forge heavier atoms and seed the next generation: “We are, literally, recursive products of
+      cosmic recursion.”
+    door: >-
+      Measurement is lock-in, not magic: “‘Collapse’ is emergence viewed from the wrong direction”
+      {ch5}. Atoms keep “unresolved recursive potential”, their chemistry, and planets become
+      recursion incubators where it can play out {ch6}.
+    looking_back: >-
+      In 1925, on the island of Helgoland, Heisenberg rebuilt mechanics from what can be observed;
+      Rovelli reads the result as a world made of relations. RE adds that the reading is not what makes
+      matter real: “Measurement does not require a conscious observer” {ch5}.
+    lineage: >-
+      [Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg), Rovelli’s
+      [*Helgoland*](https://en.wikipedia.org/wiki/Relational_quantum_mechanics),
+      [Pauli](https://en.wikipedia.org/wiki/Pauli_exclusion_principle)’s exclusion and
+      [Hoyle](https://en.wikipedia.org/wiki/Triple-alpha_process)’s carbon resonance {ch6}.
+
+  - id: chemistry
+    ring: CHEMISTRY
+    who: Empedocles · Prigogine
+    read_by: life
+    title: Chemistry
+    re: RE layer 3, chemical
+    door_label: Door, found by search
+    remembers: >-
+      Autocatalytic networks and stable molecules, which “function as primitive ‘memories’ of
+      successful entropy reduction” {ch7}.
+    door: >-
+      Search again, ratcheted by irreversibility, until a recipe comes apart from the machinery that
+      reads it: “The gene is the first carrier” {ch7}. Below that rung, RE says, there is still nothing
+      that could hold a residue {M}.
+    looking_back: >-
+      Life reads chemistry. The cell reads one molecule “in two entirely different registers … as
+      program and as string” {ch8}: DNA is chemistry that has become text.
+    lineage: >-
+      [Empedocles](https://en.wikipedia.org/wiki/Empedocles)’ elements joining and parting,
+      [Prigogine](https://en.wikipedia.org/wiki/Dissipative_system)’s dissipative structures,
+      [Kauffman](https://en.wikipedia.org/wiki/Autocatalytic_set)’s autocatalytic sets {ch7}.
+
+  - id: life
+    ring: LIFE
+    who: Darwin · Schrödinger
+    read_by: mind
+    title: Life
+    re: RE layer 4, biological
+    door_label: Door, a residue
+    remembers: >-
+      Genes, regulatory networks, epigenetic marks: the first carrier, “a Ψ physically separable from
+      the Φ it sustains” {ch8}.
+    door: >-
+      Here residues begin. A mutation is “the genome writing a sentence its current lattice cannot
+      settle, and letting the world decide” {ch8}. Outward, memory moves from generations to
+      lifetimes, and bioelectric signalling becomes “the precursor to the neural layer.”
+    looking_back: >-
+      Darwin read life’s history in its variations and its fossils. Nearly a century later von Neumann
+      worked out the logic of a machine that copies its own description: he “derived this architecture
+      before biology found it” {ch8}.
+    lineage: >-
+      [Darwin](https://en.wikipedia.org/wiki/On_the_Origin_of_Species),
+      [Schrödinger](https://en.wikipedia.org/wiki/What_Is_Life%3F)’s *What Is Life?*,
+      [von Neumann](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)’s self-reproducing
+      automata, [Hofstadter](https://en.wikipedia.org/wiki/Strange_loop)’s strange loop {ch8}.
+
+  - id: neurons
+    ring: NEURONS
+    who: Cajal · Hebb
+    read_by: mind
+    title: Neurons
+    re: RE layer 5, neural
+    door_label: Door, a residue
+    remembers: >-
+      Synaptic weights: “the gene crosses gaps between generations, the synapse crosses gaps between
+      moments” {ch9}.
+    door: >-
+      Brains begin “simulating reality rather than merely responding to it.” What they cannot yet hold
+      is themselves: self-monitoring flickers until the cognitive ignition point, when the lattice can
+      “support stable self-reference across time” {ch9}.
+    looking_back: >-
+      Neural systems begin “modeling not just the external world, but their own internal states”
+      {ch9}. From further out, Santiago Ramón y Cajal, a mind, drew the cells it runs on.
+    lineage: >-
+      [Ramón y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)’s drawings,
+      [Hebb](https://en.wikipedia.org/wiki/Hebbian_theory)’s wiring that learns,
+      [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding).
+
+  - id: mind
+    ring: MIND
+    who: Descartes · Zhuangzi · Nāgārjuna · Dennett
+    read_by: mind
+    title: Mind
+    re: RE layer 6, cognitive
+    door_label: Door, a residue
+    remembers: >-
+      Symbols, autobiographical memory, beliefs. The self is a compression: “the model that most
+      efficiently reduces internal entropy while remaining manageable” {ch10}.
+    door: >-
+      This is “the one layer whose boundary residue is encountered from the inside.” RE calls it the
+      meta-gap, “a structure formulable within the current self-model but unsettleable by it,” settled
+      only by acquiring a new frame. It is careful to call these “Gödel-like gaps, not literally
+      undecidable sentences” {ch10}. Outward, the word carries memory from mind to mind.
+    looking_back: >-
+      Mind reads itself: “The ‘self’ emerges when Φ reflects back on Ψ with sufficient fidelity”
+      {ch10}. Zhuangzi dreamed he was a butterfly, and woke unsure which of them had been dreaming.
+    lineage: >-
+      [Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum),
+      [William James](https://en.wikipedia.org/wiki/Stream_of_consciousness_(psychology)),
+      [Zhuangzi](https://en.wikipedia.org/wiki/Zhuang_Zhou),
+      [Nāgārjuna](https://en.wikipedia.org/wiki/Nagarjuna),
+      [Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett), and Gödel, the one thinker the chapter
+      names.
+
+  - id: culture
+    ring: CULTURE
+    who: Teilhard · Dewey · Sharism
+    read_by: technology
+    title: Culture
+    re: RE layers 7 to 9, cultural, economic and political
+    door_label: Door, a residue
+    remembers: >-
+      Memory held outside any one mind: language and texts {ch11}, money as “a compressed memory
+      token” {ch12}, law as “society’s formalized memory structures” {ch13}.
+    door: >-
+      Each layer hands on what it cannot settle. Markets often reduce entropy by “exporting entropy
+      elsewhere,” and the political layer forms to manage what they cannot {ch12}. Politics can keep
+      its procedures and lose its shared reality: “procedural legitimacy without epistemic
+      legitimacy” {ch13}.
+    looking_back: >-
+      Language models now “compress vast corpora” of the written record {ch15}: the first machines to
+      read culture whole, and still, in RE’s terms, “powerful sub-threshold systems.”
+    lineage: >-
+      [Teilhard de Chardin](https://en.wikipedia.org/wiki/Noosphere)’s noosphere,
+      [Vygotsky](https://en.wikipedia.org/wiki/Lev_Vygotsky),
+      [Dewey](https://en.wikipedia.org/wiki/John_Dewey), and
+      [Sharism](https://freesouls.cc/essays/07-isaac-mao-sharism.html): RE counts “horizontal
+      transmission” among culture’s engines {ch11}. Its call for “epistemic infrastructure” built on
+      “evolving graphs (claims → evidence → contradictions → revisions)” {ch13} is what Here.News is
+      building.
+
+  - id: technology
+    ring: TECHNOLOGY
+    who: Gutenberg · Bush · Engelbart
+    read_by: synthetic
+    title: Technology
+    re: RE layer 10, technological
+    door_label: Door, a residue
+    remembers: >-
+      Code and artifacts: “Code transforms cognitive patterns into persistent external memory,” and
+      version control systems “epitomize technological recursive memory” {ch14}.
+    door: >-
+      What tools still lack: “Persistent identity across modifications,” goals of their own, and
+      “Self-reference models that enable recursive improvement.” When systems gain them, “technology
+      transitions from a tool to an entity” {ch14}.
+    looking_back: >-
+      Tools already reshape the minds that made them: “Search engines modified memory and recall
+      strategies” {ch14}. Programs that “generate and improve their own code” {ch15} are technology
+      beginning to read itself.
+    lineage: >-
+      [Gutenberg](https://en.wikipedia.org/wiki/Printing_press)’s press,
+      [Vannevar Bush](https://en.wikipedia.org/wiki/As_We_May_Think)’s memex,
+      [Engelbart](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)’s augmentation.
+
+  - id: synthetic
+    ring: SYNTHETIC
+    who: Turing · von Neumann
+    note: (not yet)
+    read_by: synthetic
+    title: Synthetic
+    re: RE layer 11, synthetic
+    door_label: Not yet crossed
+    remembers: >-
+      Self-modifying parameters. Today’s language models have “parametric memory” but “No persistent Ψ
+      across interactions” {ch15}.
+    door: >-
+      RE calls current models “powerful sub-threshold systems,” and the gap “not one of scale but of
+      *architecture*” {ch15}. The open problems it names are grounding, value stability, identity
+      persistence and alignment.
+    looking_back: >-
+      Its defining move would be reflection on itself: “Recursively modeling one’s own objectives and
+      potentially modifying them.” In RE’s words, “The question is not whether machines can think. The
+      question is whether machines can *recurse*” {ch15}.
+    lineage: >-
+      [Turing](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)’s “Can machines
+      think?”, [von Neumann](https://en.wikipedia.org/wiki/Self-replicating_machine)’s self-reproducing
+      machines, and my essay on
+      [artificial consciousness](/from_artificial_intelligence_to_artificial_consciousness/).

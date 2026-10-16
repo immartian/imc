@@ -1,0 +1,22 @@
+{{- /* One card per layer, from data/continuum.yaml. */ -}}
+<div class="layers">
+{{- range hugo.Data.continuum.layers }}
+  <section class="layer" id="layer-{{ .id }}" aria-labelledby="layer-{{ .id }}-title">
+    <img class="layer-mini" src="{{ printf "images/continuum/mini-%s.svg" .id | relURL }}" width="240" height="240"
+      alt="The {{ lower .title }} ring highlighted on the map">
+    <h3 id="layer-{{ .id }}-title">{{ .title }}</h3>
+    <p class="layer-re">{{ .re }}</p>
+    <dl>
+      <dt>Remembers</dt>
+      <dd>{{ partial "re-refs.html" (.remembers | markdownify) }}</dd>
+      <dt>{{ .door_label }}</dt>
+      <dd>{{ partial "re-refs.html" (.door | markdownify) }}</dd>
+      <dt>Looking back</dt>
+      <dd>{{ partial "re-refs.html" (.looking_back | markdownify) }}</dd>
+      <dt>Lineage</dt>
+      <dd>{{ partial "re-refs.html" (.lineage | markdownify) }}</dd>
+    </dl>
+    <p class="layer-back"><a href="#map">Back to the map</a></p>
+  </section>
+{{- end }}
+</div>

@@ -1,0 +1,8 @@
+{{- /* Turns {ch4}, {M}, {P} ... in already-rendered HTML into links to the RE thesis. */ -}}
+{{- $s := . -}}
+{{- $d := hugo.Data.continuum -}}
+{{- range $key, $c := $d.chapters -}}
+  {{- $link := printf `<a class="re-ref" href="%s%s" title="Recursive Emergence, %s">%s</a>` $d.re_base $c.file $c.title $c.label -}}
+  {{- $s = replace $s (printf "{%s}" $key) $link -}}
+{{- end -}}
+{{- $s | safeHTML -}}
