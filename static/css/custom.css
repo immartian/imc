@@ -35,7 +35,19 @@ figure.story-picture ~ h2 {
   font-style: italic;
 }
 
-/* Home page continuum diagram */
+/* Home page continuum diagram: wider than the text column where the margins allow */
+figure.continuum {
+  width: max(100%, min(calc(100vw - 19rem), 60rem));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+@media screen and (max-width: 45em) {
+  figure.continuum {
+    width: 100%;
+    margin-left: 0;
+    transform: none;
+  }
+}
 figure.continuum img {
   width: 100%;
   height: auto;
