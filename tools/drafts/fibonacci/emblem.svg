@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 637" font-family="Helvetica, Arial, sans-serif">
+<rect width="1000" height="637" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#111"/></marker></defs>
+<rect x="283.6" y="179.8" width="17.3" height="17.3" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<rect x="283.6" y="162.5" width="17.3" height="17.3" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<rect x="249.0" y="162.5" width="34.6" height="34.6" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<rect x="249.0" y="197.1" width="51.9" height="51.9" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<rect x="300.9" y="162.5" width="86.5" height="86.5" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<text x="344.2" y="215.4" font-size="28" text-anchor="middle" fill="#8a8a8a">5</text>
+<rect x="249.0" y="24.0" width="138.5" height="138.5" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<text x="318.3" y="108.7" font-size="44" text-anchor="middle" fill="#8a8a8a">8</text>
+<rect x="24.0" y="24.0" width="225.0" height="225.0" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<text x="136.5" y="161.7" font-size="72" text-anchor="middle" fill="#8a8a8a">13</text>
+<rect x="24.0" y="249.0" width="363.5" height="363.5" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<text x="205.7" y="456.0" font-size="72" text-anchor="middle" fill="#8a8a8a">21</text>
+<rect x="387.5" y="24.0" width="588.5" height="588.5" fill="none" stroke="#d6d6d6" stroke-width="1.5"/>
+<text x="681.7" y="343.5" font-size="72" text-anchor="middle" fill="#8a8a8a">34</text>
+<path d="M283.6 197.1 A17.3 17.3 0 0 0 300.9 179.8 L300.9 179.8 A17.3 17.3 0 0 0 283.6 162.5 L283.6 162.5 A34.6 34.6 0 0 0 249.0 197.1 L249.0 197.1 A51.9 51.9 0 0 0 300.9 249.0 L300.9 249.0 A86.5 86.5 0 0 0 387.5 162.5 L387.5 162.5 A138.5 138.5 0 0 0 249.0 24.0 L249.0 24.0 A225.0 225.0 0 0 0 24.0 249.0 L24.0 249.0 A363.5 363.5 0 0 0 387.5 612.5 L387.5 612.5 A588.5 588.5 0 0 0 976.0 24.0" fill="none" stroke="#111" stroke-width="5" stroke-linecap="round" marker-end="url(#ar)"/>
+<circle cx="283.6" cy="197.1" r="6" fill="#111"/>
+</svg>
