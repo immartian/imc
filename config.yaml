@@ -8,7 +8,7 @@ enable404Page: true
 enableRobotsTXT: true
 
 params:
-  description: "Isaac Mao — essays on Recursive Emergence, Sharism, AI consciousness, and how open societies evolve."
+  description: "Isaac Mao — ideas and thoughts on Recursive Emergence, Sharism, AI consciousness, and how open societies evolve."
   customCss:
     - "css/custom.css"
 
