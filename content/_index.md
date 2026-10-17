@@ -2,7 +2,7 @@
 date: "2022-06-26T18:27:58+01:00"
 title: "A Continuum of Recursive Emergence"
 subtitle: "Everything that persists is a recursion that earned its survival."
-description: "Isaac Mao — essays on Recursive Emergence, Sharism, AI consciousness, and how open societies evolve."
+description: "Isaac Mao — ideas and thoughts on Recursive Emergence, Sharism, AI consciousness, and how open societies evolve."
 images: ["/images/re-continuum.png"]
 ---
 
